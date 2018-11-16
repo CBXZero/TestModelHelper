@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Description>Test Model Helper is a C# library for generating test data for unit/functional/integration tests</Description>
   </PropertyGroup>
 
   <ItemGroup>

@@ -40,8 +40,8 @@ Examples shown using MSTest, but other test frameworks should work fine
         [TestMethod]
         public void Test1()
         {
-            var validData = _testModelHelper.CreateValidTest(); // Creates copy of original person
-            var invalidData = _testModelHelper.CreateInvalidTest(r => r.FirstName = "Someone"); // Created modified copy of original person
+            var validData = _testModelHelper.CreateOriginalTestData(); // Creates copy of original person
+            var invalidData = _testModelHelper.CreateModifiedTestData(r => r.FirstName = "Someone"); // Created modified copy of original person
 
             Assert.AreEqual("Charlie", validData.FirstName); // Passes
             Assert.AreEqual("Charlie", invalidData.FirstName); // Fails
@@ -51,18 +51,18 @@ Examples shown using MSTest, but other test frameworks should work fine
 
 ## Available Methods
 
-### CreateValidTest
+### CreateOriginalTestData
 
 Creates a copy of your original test model and returns it. Modifications to this test model will not effect the original
 
 ```
-    var validTestData = _testModelHelper.CreateValidTest();
+    var validTestData = _testModelHelper.CreateOriginalTestData();
 ```
 
-### CreateInvalidTest
+### CreateModifiedTestData
 
 Creates a copy of your original test model, then runs the linq expression on it. This is meant to make invalid or modified test data for specific edge cases in applications
 
 ```
-    var testData = _testModelHelper.CrateInvalidTest(r => r.FirstName = "Someone");
+    var testData = _testModelHelper.CreateModifiedTestData(r => r.FirstName = "Someone");
 ```

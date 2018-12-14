@@ -1,0 +1,17 @@
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.Test.deps.json
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.Test.runtimeconfig.json
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.Test.runtimeconfig.dev.json
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.Test.dll
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.dll
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.pdb
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.csprojAssemblyReference.cache
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.csproj.CoreCompileInputs.cache
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.AssemblyInfoInputs.cache
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.AssemblyInfo.cs
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.csproj.CopyComplete
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\bin\Release\netcoreapp2.1\TestModelHelper.Test.pdb
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.dll
+C:\Users\charles.besalke\source\repos\TestModelHelper\TestModelHelper.Test\obj\Release\netcoreapp2.1\TestModelHelper.Test.pdb

@@ -12,12 +12,12 @@ namespace TestModelHelper
             _validModel = validModel;
         }
 
-        public T CreateValidTest()
+        public T CreateOriginalTestData()
         {
             return CloneValidObject();
         }
 
-        public T CreateInvalidTest(Action<T> action)
+        public T CreateModifiedTestData(Action<T> action)
         {
             var clone = CloneValidObject();
             action.Invoke(clone);

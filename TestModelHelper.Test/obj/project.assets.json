@@ -1545,7 +1545,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "TestModelHelper/1.0.1": {
+      "TestModelHelper/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -5571,7 +5571,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "TestModelHelper/1.0.1": {
+    "TestModelHelper/1.0.2": {
       "type": "project",
       "path": "../TestModelHelper/TestModelHelper.csproj",
       "msbuildProject": "../TestModelHelper/TestModelHelper.csproj"
@@ -5584,7 +5584,7 @@
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "RandomTestValues >= 2.0.5.1",
-      "TestModelHelper >= 1.0.1"
+      "TestModelHelper >= 1.0.2"
     ]
   },
   "packageFolders": {
